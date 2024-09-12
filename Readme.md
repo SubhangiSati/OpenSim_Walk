@@ -6,10 +6,10 @@ This project provides a comprehensive setup and execution environment for runnin
 
 OpenSim Setup in Colab: 
 - Installs OpenSim libraries in a Google Colab environment using Conda, enabling the simulation of musculoskeletal models.
--Data Preprocessing and Plotting: Utilizes Python libraries like Pandas and Plotly to process and visualize time-series data from the walking simulations.
--Inverse Kinematics: Executes inverse kinematics on pre-defined human gait models to analyze joint angles such as ankle, knee, and hip flexion during walking.
--Integration with OpenSim Models: Clones repositories containing OpenSim models for human gait and loads the necessary files for further simulation and analysis.
--3D Biomechanics Data: Implements the processing of 3D biomechanics data, enabling visualization of human motion from C3D files.
+- Data Preprocessing and Plotting: Utilizes Python libraries like Pandas and Plotly to process and visualize time-series data from the walking simulations.
+- Inverse Kinematics: Executes inverse kinematics on pre-defined human gait models to analyze joint angles such as ankle, knee, and hip flexion during walking.
+- Integration with OpenSim Models: Clones repositories containing OpenSim models for human gait and loads the necessary files for further simulation and analysis.
+- 3D Biomechanics Data: Implements the processing of 3D biomechanics data, enabling visualization of human motion from C3D files.
 
 
 ## Table of Contents
