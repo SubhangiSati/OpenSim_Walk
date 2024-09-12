@@ -46,6 +46,6 @@ C3D
 OpenSim models (GitHub repos)
 
 
-##Output Demo Video
-![Demo video](Demo.mp4)
-
+##Output Demo Screenshots
+![Axis_1](Axis_1.jpg)
+![Axis_2](Axis_2.jpg)
